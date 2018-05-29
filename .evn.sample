@@ -1,0 +1,9 @@
+
+DB_HOST="yourmongodburl"
+FRONTEND_HOST="/views/client/index.html"
+HOST_APP="https://shopjewelry.herokuapp.com/"
+CLOUD_NAME="yourCloudinaryName"
+CLOUD_API_KEY="yourCloudinaryKEY"
+CLOUD_API_SECRET="yourCloudinaryNameKEYSECRET"
+ADMIN_EMAIL="admin@gmail.com"
+ADMIN_PASSWORD="deletethislineforstrongpassword"
