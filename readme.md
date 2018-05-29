@@ -1,7 +1,12 @@
-# DEMO
+# [DEMO](https://shopjewelry.herokuapp.com)
+
 ![alt text](https://github.com/duythien0912/shopjewelry/blob/master/image/2018-05-29-08-36-shopjewelry.herokuapp.com.png "Home page")
 
 # Make your web
+
+```bash
+git clone https://github.com/duythien0912/shopjewelry.git
+```
 
 Delete .git folder
 Chance .evn.sample to .env and edit all
@@ -19,9 +24,14 @@ ADMIN_PASSWORD="deletethislineforstrongpassword"
 Run test in localhost 
 
 ```bash
-git clone https://github.com/duythien0912/shopjewelry.git
 npm install
-npm run startDev
+npm run startDev 
+```
+
+if your use yarn
+```bash
+yarn
+yarn startDev
 ```
 
 Deploy to heroku
